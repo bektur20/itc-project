@@ -436,7 +436,7 @@ a:focus {
     left: -40%;
     width: 280px;
     height: 400px;
-    background: url('/assets/images/pottery.png') center / contain no-repeat;
+    background: url('../images/pottery.png') center / contain no-repeat;
   }
   .product-ceramic::before {
     content: '';
