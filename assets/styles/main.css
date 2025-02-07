@@ -68,7 +68,7 @@ a:focus {
 .banner {
   height: 700px;
   background: url('../images/photo_2025-01-28_19-47-16.jpg') right / 50%,
-    url('..images/photo_2025-01-28_19-47-12\ \(3\).jpg') center / cover;
+    url('../images/photo_2025-01-28_19-47-12\ \(3\).jpg') center / cover;
   background-repeat: no-repeat;
   margin-bottom: 120px;
 }
